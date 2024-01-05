@@ -1,3 +1,8 @@
+# Description: This file is the main file of the project.
+#SoftAiyazilim.com
+
+
+
 from PyQt5.QtWidgets import *
 from home.home import HomePage
 
