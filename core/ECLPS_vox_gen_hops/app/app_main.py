@@ -1,3 +1,5 @@
+#SoftAiyazilim.com
+
 import logging
 
 from .constants import LOG_LVL, FLASK_HOSTNAME, VOX_DOC_PATH, HEVC_PATH
