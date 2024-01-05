@@ -1,13 +1,20 @@
-                                                  # An EU ECOLOPES Project 
+# <div align="center"> An EU ECOLOPES Project </div>
+-----
+*Ownership and Development Team: [Softaiyazilim.com](https://www.softaiyazilim.com)*
 
 
-Ownership and Development Team: Softaiyazilim.com
+<span style="font-size:6pt;">
 
-This initiative, known as the **ECOLOPES** Project, is the brainchild of softaiyazilim.com and the dedicated team at Softaiyazilim. The project was skillfully crafted for Vienna Technical University under the guidance of the esteemed senior researcher, Assoc. Mehmet Akif CIFCI, along with his proficient team.
+This initiative, known as the **ECOLOPES** EU Project, Action number 964414, is the brainchild of <span style="background-color: yellow; color: red; padding: 2px; font-weight: bold;"> Softaiyazilim.com</span> and the dedicated [Softaiyazilim.com](https://www.softaiyazilim.com) . The project was skillfully crafted for Vienna Technical University under the guidance of the esteemed senior researcher, Assoc. Mehmet Akif CIFCI, along with his proficient team.
+
+</span>
+
+
+----
 
 # Unveiling the ECOLOPES Project
 
-The **ECOLOPES** Project stands as a pioneering venture, meticulously designed to revolutionize integrated ecosystem architecture. Its focus lies in creating inclusive living spaces for humans, plants, animals, and associated organisms within urban environments.
+The **ECOLOPES** Project is a pioneering venture meticulously designed to revolutionize integrated ecosystem architecture. Its focus is creating inclusive living spaces for humans, plants, animals, and associated organisms within urban environments.
 
 **ECOLOPES Concept:** Reimagining architecture, ECOLOPES introduces multi-species living spaces that envelop humans, plants, animals, and microbiota within building envelopes [4] [5].
 
@@ -31,8 +38,8 @@ Command breakdown:
 
 - `python`: Specifies Python commands execution.
 - `-m PyQt5.uic.pyuic`: Runs the `pyuic` module from PyQt5 for converting `.ui` files.
-- `-x`: Allows `pyuic` to generate an executable Python script directly.
-- `name.ui`: Replace with the actual Qt Designer `.ui` file name.
+- `-x`: Allows `pyuic` to directly generate an executable Python script.
+- `name.ui`: Replace with the Qt Designer `.ui` file name.
 - `-o name_design.py`: Specifies the output file for the generated Python code.
 
 Example command:
@@ -42,3 +49,5 @@ python -m PyQt5.uic.pyuic -x mainwindow.ui -o mainwindow_design.py
 ```
 
 For inquiries, visit [LinkedIn Profile](https://www.linkedin.com/in/themanoftalent).
+[Softaiyazilim.com](https://www.softaiyazilim.com)
+
