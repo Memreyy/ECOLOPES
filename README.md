@@ -51,3 +51,13 @@ python -m PyQt5.uic.pyuic -x mainwindow.ui -o mainwindow_design.py
 For inquiries, visit [LinkedIn Profile](https://www.linkedin.com/in/themanoftalent).
 [Softaiyazilim.com](https://www.softaiyazilim.com)
 
+
+For More
+
+ABOUT
+ECOlogical building enveLOPES: a game-changing design approach for regenerating urban ecosystems
+Urbanization constitutes a major environmental issue of the 21st century. Within cities, densification, the decrease of green open spaces, and a continued reliance on grey infrastructure approaches result in increasing separation of people from nature and decreased access to ecosystem services. This decreases the livability of cities and reduces human well-being. Current approaches fall short in providing breakthrough solutions, because they perpetuate the human-nature dichotomy due to anthropocentric design. In ECOLOPES we propose a radical change for city development: instead of minimizing the negative impact of urbanisation on nature, we aim at urbanization to be planned and designed such that nature – including humans – can co-evolve within the city. We envisage a radically new integrated ecosystem approach to architecture that focuses equally on humans, plants, animals, and associated organisms such as microbiota. Over the next few years, ECOLOPES will provide the technology that will help to achieve this vision.
+In ECOLOPES, we focus on the envelope, the building enclosure. We will transform the envelope into an ecolope, a multi-species living space for four types of inhabitants, humans, plants, animals, and microbiota. ECOLOPES will develop the core technologies for designing ecolopes in a systematic way, considering the needs of both humans, as well as of plants, animals and beneficial microbes. ECOLOPES will make biological knowledge available for the architectural design process, to find architectural solutions that enable synergies and limit conflicts between the inhabitants. The ecolopes designed by this multi-species approach will restore the beneficial human – nature relationships in cities.
+A key element of ECOLOPES will be an Information Model that integrates ecological and architectural knowledge, data and models into a data-integrated design recommendation system. The ECOLOPES Information Model will guide the development of the ECOLOPES Computational modelling and simulation environment, to make biological and architectural knowledge available for design.
+https://ecolopes.org/
+
