@@ -1,6 +1,6 @@
 # <div align="center"> An EU ECOLOPES Project </div>
 -----
-*Development Team: [Softaiyazilim.com](https://www.softaiyazilim.com)*
+*DEMO Development Team: [Softaiyazilim.com](https://www.softaiyazilim.com)*
 
 
 <span style="font-size:6pt;">
